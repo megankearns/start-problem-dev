@@ -2,3 +2,7 @@
 *.swp
 *~
 .vscode*
+deploy.sh
+testing-dir
+staging-dir
+prod-dir
